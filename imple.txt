@@ -1,0 +1,5 @@
+1) MS1M arc face refined - dataset
+2)models
+3) pickle.load(....., encoding = 'bytes')
+4) xrange - range
+5) python verification.py --data-dir=../../datasets/faces_emore --model=../../models/model-r100-ii/model,0 --gpu=0 --batch-size=1 --target=lfw
